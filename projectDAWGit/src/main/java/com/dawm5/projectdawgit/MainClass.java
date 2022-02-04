@@ -6,7 +6,7 @@ package com.dawm5.projectdawgit;
 
 /**
  *
- * @author Vicentepc
+ * @author Vicentepctt
  */
 public class MainClass {
     
